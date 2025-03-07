@@ -4,4 +4,6 @@ Basics
 .. toctree::
     :maxdepth: 1
 
-    tables
+    hicona_cooler
+    pixel_table
+    hicona_graph
