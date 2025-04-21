@@ -11,6 +11,7 @@ Basics
     basics/pixel_table
     basics/hicona_graph
     basics/class_conversion
+    basics/arbitrary_table
 
 Clustering
 ----------
